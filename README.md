@@ -1,57 +1,47 @@
 # IntelliJ-IDEA
 默认快捷键（Windows）
-<br>
-#### 一、记住这些快捷键 Remember these Shortcuts
+
+#### 一、Remember these Shortcuts 记住这些快捷键
 |说明|快捷键|
 |----|-----|
 |<font> </font>|<font size="3"></font>|
-|<font>自动补全代码 Smart code completion</font>|<font size="3">Ctrl+Shift+Space</font>|
-|<font>全局搜索 Search everywhere</font>|<font size="3">Double Shift</font>|
-|<font>显示意图动作和快速修复 Show intention actions and quick-fixes</font>|<font size="3">Alt+Enter</font>|
-|<font>生成代码 Generate code</font>|<font size="3">Alt+Ins</font>|
-|<font>参数信息 Parameter info</font>|<font size="3">Ctrl+P</font>|
-|<font>扩展选择 Extend selection</font>|<font size="3">Ctrl+W</font>|
-|<font>缩小选择 Shrink selection</font>|<font size="3">Ctrl+Shift+W</font>|
-|<font>最近更改的文件 Recent files popup</font>|<font size="3">Ctrl+E</font>|
-|<font>重命名 Rename</font>|<font size="3">Shift+F6</font>|
+|<font>Smart code completion 自动补全代码</font>|<font size="3">Ctrl+Shift+Space</font>|
+|<font>Search everywhere 全局搜索</font>|<font size="3">Double Shift</font>|
+|<font>Show intention actions and quick-fixes 显示意图动作和快速修复</font>|<font size="3">Alt+Enter</font>|
+|<font>Generate code 生成代码</font>|<font size="3">Alt+Ins</font>|
+|<font>Parameter info 参数信息</font>|<font size="3">Ctrl+P</font>|
+|<font>Extend selection 扩展选择</font>|<font size="3">Ctrl+W</font>|
+|<font>Shrink selection 缩小选择</font>|<font size="3">Ctrl+Shift+W</font>|
+|<font>Recent files popup 最近更改的文件</font>|<font size="3">Ctrl+E</font>|
+|<font>Rename 重命名</font>|<font size="3">Shift+F6</font>|
 <br>
 
-#### 二、常规 General
-
+#### 二、General 常规
 <br>
 
-#### 三、调试 Debugging
-
+#### 三、Debugging 调试
 <br>
 
-#### 四、搜索/替换 Search/Replace
-
+#### 四、Search/Replace 搜索/替换
 <br>
 
-#### 五、编辑 Editing
-
+#### 五、Editing 编辑
 <br>
 
-#### 六、重构 Refactoring
-
+#### 六、Refactoring 重构
 <br>
 
-#### 七、导航 Navigation
-
+#### 七、Navigation 导航
 <br>
 
-#### 八、编译及运行 Compile and Run
-
+#### 八、Compile and Run 编译及运行
 <br>
 
-#### 九、使用搜索 Usage Search
-
+#### 九、Usage Search 使用搜索
 <br>
 
-#### 十、VCS/本地历史 VCS/Local History
-
+#### 十、VCS/Local History VCS/本地历史
 <br>
 
-#### 十一、生活模板 Live Templates
-
+#### 十一、Live Templates 生活模板
 <br>
