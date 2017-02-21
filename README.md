@@ -4,7 +4,6 @@
 #### 一、Remember these Shortcuts 记住这些快捷键
 |说明|快捷键|
 |----|-----|
-|<font> </font>|<font size="3"></font>|
 |<font>Smart code completion 自动补全代码</font>|<font size="3">Ctrl + Shift + Space</font>|
 |<font>Search everywhere 全局搜索</font>|<font size="3">Double Shift</font>|
 |<font>Show intention actions and quick-fixes 显示意图动作和快速修复</font>|<font size="3">Alt + Enter</font>|
@@ -18,32 +17,57 @@
 #### 二、General 常规
 |说明|快捷键|
 |----|-----|
-|<font>Open corresponding tool window </font>|<font size="3"></font>|
+|<font>Open corresponding tool window 打开相应的工具窗口</font>|<font size="3">Alt + #[0-9]</font>|
+|<font>Save all 保存所有</font>|<font size="3">Ctrl + S</font>|
+|<font>Synchronize 同步</font>|<font size="3">Ctrl + Alt + Y</font>|
+|<font>Toggle maximizing editor 切换最大化编辑</font>|<font size="3">Ctrl + Shift + F12</font>|
+|<font>Inspect current file with current profile 检查当前文件的当前配置文件</font>|<font size="3">Alt + Shift + I</font>|
+|<font>Quick switch current scheme 快速切换当前方案</font>|<font size="3">Ctrl + BackQuote (`)</font>|
+|<font>Open Settings dialog 打开设置对话框</font>|<font size="3">Ctrl + Alt + S</font>|
+|<font>Open Project Structure dialog 打开项目结构对话框</font>|<font size="3">Ctrl + Alt + Shift + S</font>|
+|<font>Find Action 查询动作</font>|<font size="3">Ctrl + Shift + A</font>|
 
 #### 三、Debugging 调试
 |说明|快捷键|
 |----|-----|
-|<font>Step over / into </font>|<font size="3"></font>|
+|<font>Step over / into 步过/步入</font>|<font size="3">F8 / F7</font>|
+|<font>Smart step into / Step out 智能步入/步过</font>|<font size="3">Shift + F7 / Shift + F8</font>|
+|<font>Run to cursor 运行到光标</font>|<font size="3">Alt + F9</font>|
+|<font>Evaluate expression 评价表达</font>|<font size="3">Alt + F8</font>|
+|<font>Resume program 恢复程序</font>|<font size="3">F9</font>|
+|<font>Toggle breakpoint 切换断点</font>|<font size="3">Ctrl + F8</font>|
+|<font>View breakpoints 查看断点</font>|<font size="3">Ctrl + Shift + F8</font>|
 
 #### 四、Search/Replace 搜索/替换
 |说明|快捷键|
 |----|-----|
-|<font>Search everywhere </font>|<font size="3">Double Shift</font>|
+|<font>Search everywhere 全局搜索</font>|<font size="3">Double Shift</font>|
+|<font>Find 查找</font>|<font size="3">Ctrl + F</font>|
+|<font>Find next / previous 查找下一个/上一个</font>|<font size="3">F3 / Shift + F3</font>|
+|<font>Replace 替换</font>|<font size="3">Ctrl + R</font>|
+|<font>Find in path 在路径中查找</font>|<font size="3">Ctrl + Shift + F</font>|
+|<font>Replace in path 在路径中替换</font>|<font size="3">Ctrl + Shift + R</font>|
+|<font>Select next occurrence 选择下一个事件</font>|<font size="3">Alt + J</font>|
+|<font>Select all occurrences 选择所有的事件</font>|<font size="3">Ctrl + Alt + Shift + J</font>|
+|<font>Unselect occurrence 取消发生</font>|<font size="3">Alt + Shift + J</font>|
 
 #### 五、Editing 编辑
 |说明|快捷键|
 |----|-----|
 |<font>Basic code completion </font>|<font size="3">Ctrl+Space</font>|
+|<font> </font>|<font size="3"></font>|
 
 #### 六、Refactoring 重构
 |说明|快捷键|
 |----|-----|
 |<font>Copy </font>|<font size="3">F5</font>|
+|<font> </font>|<font size="3"></font>|
 
 #### 七、Navigation 导航
 |说明|快捷键|
 |----|-----|
 |<font>Go to class </font>|<font size="3">Ctrl+N</font>|
+|<font> </font>|<font size="3"></font>|
 
 #### 八、Compile and Run 编译及运行
 |说明|快捷键|
