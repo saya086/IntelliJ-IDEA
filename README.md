@@ -61,7 +61,17 @@
 |说明|快捷键|
 |----|-----|
 |<font>Copy </font>|<font size="3">F5</font>|
-|<font> </font>|<font size="3"></font>|
+|<font>Move </font>|<font size="3">F6</font>|
+|<font>Safe Delete </font>|<font size="3">Alt + Delete</font>|
+|<font>Rename </font>|<font size="3">Shift + F6</font>|
+|<font>Refactor this </font>|<font size="3">Ctrl + Alt + Shift + T</font>|
+|<font>Change Signature </font>|<font size="3">Ctrl + F6</font>|
+|<font>Inline </font>|<font size="3">Ctrl + Alt + N</font>|
+|<font>Extract Method </font>|<font size="3"Ctrl + Alt + M></font>|
+|<font>Extract Variable </font>|<font size="3">Ctrl + Alt + V</font>|
+|<font>Extract Field </font>|<font size="3">Ctrl + Alt + F</font>|
+|<font>Extract Constant </font>|<font size="3">Ctrl + Alt + C</font>|
+|<font>Extract Parameter </font>|<font size="3">Ctrl + Alt + P</font>|
 
 #### 七、Navigation 导航
 |说明|快捷键|
@@ -72,7 +82,7 @@
 #### 八、Compile and Run 编译及运行
 |说明|快捷键|
 |----|-----|
-|<font>Make project </font>|<font size="3">Ctrl+F9</font>|
+|<font>Make project 生成项目</font>|<font size="3">Ctrl+F9</font>|
 |<font>Compile selected file, package or module 编译选定的文件、包或模块</font>|<font size="3">Ctrl + Shift + F9</font>|
 |<font>Select configuration and run / debug 选择配置并运行/调试</font>|<font size="3">Alt + Shift + F10/F9</font>|
 |<font>Run / Debug 运行/调试</font>|<font size="3">Shift + F10 / F9</font>|
