@@ -1,5 +1,6 @@
 # IntelliJ-IDEA
 默认快捷键（Windows）
+来源：https://resources.jetbrains.com/storage/products/idea/docs/IntelliJIDEA_ReferenceCard.pdf
 
 #### 一、Remember these Shortcuts 记住这些快捷键
 |说明|快捷键|
@@ -54,30 +55,95 @@
 #### 五、Editing 编辑
 |说明|快捷键|
 |----|-----|
-|<font>Basic code completion </font>|<font size="3">Ctrl+Space</font>|
+|<font>Basic code completion 代码提示（与系统输入法快捷键冲突）</font>|<font size="3">Ctrl+Space</font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
+|<font> </font>|<font size="3"></font>|
 |<font> </font>|<font size="3"></font>|
 
 #### 六、Refactoring 重构
 |说明|快捷键|
 |----|-----|
-|<font>Copy </font>|<font size="3">F5</font>|
-|<font>Move </font>|<font size="3">F6</font>|
-|<font>Safe Delete </font>|<font size="3">Alt + Delete</font>|
-|<font>Rename </font>|<font size="3">Shift + F6</font>|
-|<font>Refactor this </font>|<font size="3">Ctrl + Alt + Shift + T</font>|
-|<font>Change Signature </font>|<font size="3">Ctrl + F6</font>|
-|<font>Inline </font>|<font size="3">Ctrl + Alt + N</font>|
-|<font>Extract Method </font>|<font size="3"Ctrl + Alt + M></font>|
-|<font>Extract Variable </font>|<font size="3">Ctrl + Alt + V</font>|
-|<font>Extract Field </font>|<font size="3">Ctrl + Alt + F</font>|
-|<font>Extract Constant </font>|<font size="3">Ctrl + Alt + C</font>|
-|<font>Extract Parameter </font>|<font size="3">Ctrl + Alt + P</font>|
+|<font>Copy 复制</font>|<font size="3">F5</font>|
+|<font>Move 移动</font>|<font size="3">F6</font>|
+|<font>Safe Delete 安全删除</font>|<font size="3">Alt + Delete</font>|
+|<font>Rename 重命名</font>|<font size="3">Shift + F6</font>|
+|<font>Refactor this 此重构</font>|<font size="3">Ctrl + Alt + Shift + T</font>|
+|<font>Change Signature 更改签名</font>|<font size="3">Ctrl + F6</font>|
+|<font>Inline 内联</font>|<font size="3">Ctrl + Alt + N</font>|
+|<font>Extract Method 提取方法</font>|<font size="3">Ctrl + Alt + M</font>|
+|<font>Extract Variable 提取变量</font>|<font size="3">Ctrl + Alt + V</font>|
+|<font>Extract Field 提取字段</font>|<font size="3">Ctrl + Alt + F</font>|
+|<font>Extract Constant 提取常数</font>|<font size="3">Ctrl + Alt + C</font>|
+|<font>Extract Parameter 提取参数</font>|<font size="3">Ctrl + Alt + P</font>|
 
 #### 七、Navigation 导航
 |说明|快捷键|
 |----|-----|
-|<font>Go to class </font>|<font size="3">Ctrl+N</font>|
-|<font> </font>|<font size="3"></font>|
+|<font>Go to class 快速打开类</font>|<font size="3">Ctrl+N</font>|
+|<font>Go to file </font>|<font size="3">Ctrl + Shift + N</font>|
+|<font>Go to symbol </font>|<font size="3">Ctrl + Alt + Shift + N</font>|
+|<font>Go to next / previous editor tab </font>|<font size="3">Alt + Right/Left</font>|
+|<font>Go back to previous tool window </font>|<font size="3">F12</font>|
+|<font>Go to editor (from tool window) </font>|<font size="3">Esc</font>|
+|<font>Hide active or last active window </font>|<font size="3">Shift + Esc</font>|
+|<font>Go to line </font>|<font size="3">Ctrl + G</font>|
+|<font>Recent files popup </font>|<font size="3">Recent files popup</font>|
+|<font>Navigate back / forward </font>|<font size="3">Ctrl+ Alt + Left/Right</font>|
+|<font>Navigate to last edit location </font>|<font size="3">Ctrl+ Shift+ Backspace</font>|
+|<font>Select current file or symbol in any view </font>|<font size="3">Alt + F1</font>|
+|<font>Go to declaration </font>|<font size="3">Ctrl + B , Ctrl + Click</font>|
+|<font>Go to implementation(s) </font>|<font size="3">Ctrl + Alt + B</font>|
+|<font>Open quick definition lookup </font>|<font size="3">Ctrl + Shift + I</font>|
+|<font>Go to type declaration </font>|<font size="3">Ctrl + Shift + B</font>|
+|<font>Go to super-method / super-class </font>|<font size="3">Ctrl + U</font>|
+|<font>Go to previous / next method </font>|<font size="3">Alt + Up/Down</font>|
+|<font>Move to code block end / start </font>|<font size="3">Ctrl + ]/[</font>|
+|<font>File structure popup </font>|<font size="3">Ctrl + F12</font>|
+|<font>Type hierarchy </font>|<font size="3">Ctrl + H</font>|
+|<font>Method hierarchy </font>|<font size="3">Ctrl + Shift + H</font>|
+|<font>Call hierarchy </font>|<font size="3">Ctrl + Alt + H</font>|
+|<font>Next / previous highlighted error </font>|<font size="3">F2 / Shift + F2</font>|
+|<font>Edit source / View source </font>|<font size="3">F4 / Ctrl + Enter</font>|
+|<font>Show navigation bar </font>|<font size="3">Alt + Home</font>|
+|<font>Toggle bookmark </font>|<font size="3">F11</font>|
+|<font>Toggle bookmark with mnemonic </font>|<font size="3">Ctrl + F11</font>|
+|<font>Go to numbered bookmark </font>|<font size="3">Ctrl + #[0-9]</font>|
+|<font>Show bookmarks </font>|<font size="3">Shift + F11</font>|
 
 #### 八、Compile and Run 编译及运行
 |说明|快捷键|
